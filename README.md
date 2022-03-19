@@ -1,4 +1,3 @@
-* 17
 * 📘 Studying in College
 * 🔭 Working on Competitive programming while doing Small Projects side by side
 * How to reach me:
